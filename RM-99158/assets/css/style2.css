@@ -1,0 +1,56 @@
+.my-color{
+    color: var(--bs-pink);
+    background: #BE5A83;
+}
+
+.c.img{
+    float: center;
+    
+}
+
+.container{
+    padding-bottom: 40px;
+    width: 50%;    
+}
+
+.formulario{
+    background: radial-gradient(83.81% 79.85% at 51.85% 53.55%, rgba(225, 198, 188, 0.08) 0%, rgba(242, 182, 160, 0.85) 100%);
+    width: 100%;
+    padding: 20px;
+    color: #FFF;
+    font-family: Inter;
+    text-align: center;
+}
+
+.img-fluid{
+    float: center;
+}
+
+.btn-criar{
+    float: right;
+    width: 15%;
+    min-width: 130px;
+    margin-right: 2%;
+    height: 50px;
+    background-color:#F2B6A0;
+    text-align: center;
+    margin-top: 25px;
+    color: #FFF;
+    font-size: 15px;
+    font-family: Inter;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+
+}
+
+.submit-button{
+    float: center;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+    margin-top: 25px;
+    background-color:#DEDEA7;
+    color: #FFF;
+    font-family: Inter;
+}
